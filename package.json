@@ -1,0 +1,14 @@
+{
+  "name": "explore-interactive",
+  "version": "1.0.0",
+  "description": "Test for Explore Interactive Job",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derrick Reed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
